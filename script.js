@@ -7,4 +7,4 @@ let title = 'The Title';
 let body = 'The body';
 setTimeout(() => {
 let notification = new Notification(title, {body});
-}, 10000);
+}, 6000);
